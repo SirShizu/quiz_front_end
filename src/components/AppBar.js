@@ -24,7 +24,7 @@ const AppBar = () => {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="/quiz">
+              <a className="nav-link" href="/quizzes">
                 Quiz
               </a>
             </li>
